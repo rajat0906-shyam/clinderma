@@ -1,0 +1,183 @@
+Here's a **complete, clean, and professional website workflow** for **Clinderma** (AI-Powered Facial Skin Health Screening Tool) with the **Pink & White** color palette.
+
+### Clinderma Website Workflow
+
+#### 1. Landing Page (Home)
+- Beautiful hero section with soft pink gradient background
+- Headline: “Know Your Skin Better with AI”
+- Subheadline: “Upload a photo • Get instant analysis • Personalized solutions”
+- Prominent **“Get Started Free”** button (Hot Pink #E91E63)
+- Trust signals: “Non-diagnostic • Private & Secure • Works for all skin tones”
+- Footer with links
+
+**Clicking “Get Started”** → redirects to **Sign Up / Login**
+
+---
+
+#### 2. Authentication Flow
+
+**Option A: Sign Up (New User)**
+1. Sign Up Page (Clean white background with pink accents)
+   - Email / Password
+   - Or Continue with Google / Apple
+   - “Already have an account? Login”
+
+2. After successful sign-up → **Onboarding / Profile Creation** (Multi-step wizard)
+
+**Option B: Login (Existing User)**
+- Email + Password
+- Forgot Password option
+- Direct login → Dashboard (if profile is already complete)
+
+---
+
+#### 3. User Profile Creation / Onboarding (Multi-Step Wizard)
+
+This is a **6-step guided onboarding** with soft pink progress bar at the top. Each step has a clean white card with pink headings.
+
+**Step 1: Basic Information (Mandatory)**
+- Full Name
+- Age (dropdown or number input)
+- Gender (Female / Male / Prefer not to say)
+- Skin Type (select cards):
+  - Oily
+  - Dry
+  - Combination
+  - Sensitive
+
+**Step 2: Primary Skin Concerns**
+- Multi-select chips (pink outline when selected):
+  - Acne / Breakouts
+  - Hyperpigmentation / Dark spots
+  - Redness / Irritation
+  - Uneven skin tone
+  - Dullness
+  - Scarring
+  - Others (text input)
+
+**Step 3: Lifestyle Factors (Optional but recommended)**
+- Average Sleep per night (hours)
+- Daily Water Intake (glasses / liters)
+- Diet Type:
+  - Mostly Healthy
+  - Balanced
+  - High in Junk / Processed Food
+- Stress Level (slider: Low – Medium – High)
+- Exercise Frequency (Never / 1-2x week / 3-5x week / Daily)
+
+**Step 4: Health & Hormonal Factors (Sensitive – clearly marked as Optional)**
+- Do you have any known hormonal conditions? (Yes/No + specify)
+- For Female users:
+  - Menstrual cycle: Regular / Irregular / PCOS diagnosed / Menopause
+  - Are you currently pregnant or breastfeeding? (Yes/No)
+- For Male users:
+  - Shaving / Grooming frequency (Daily / Few times a week / Occasionally)
+- Any known allergies to skincare ingredients? (text field)
+
+**Step 5: Previous Skin Issues & History**
+- Have you had skin issues before? (Yes/No)
+- If Yes:
+  - Duration of current/previous issues
+  - Treatments tried before (multi-select or tags):
+    - Topical creams
+    - Oral medication
+    - Home remedies
+    - Dermatologist visits
+    - None
+- Any family history of skin conditions? (Acne, pigmentation, eczema, etc.)
+
+**Step 6: Preferences & Consent**
+- Preferred Solution Type (Default can be changed later):
+  - Cosmetic / Active Ingredient Products
+  - Natural Home Remedies
+  - Both (recommended)
+- Consent:
+  - I understand this tool is for educational purposes only and not a medical diagnosis
+  - I agree to data being used only for improving my skin analysis (clear privacy note)
+- “Complete Profile” button (Hot Pink)
+
+After completing all steps → **Profile Successfully Created** celebration screen with soft pink confetti → Redirect to **Main Dashboard**
+
+---
+
+#### 4. Main Dashboard / Home After Login
+
+- Welcome back, [Name]!
+- Quick stats: Current Skin Health Score (e.g., 68/100)
+- “Upload New Face Photo” – Big prominent button (Hot Pink)
+- Recent Analysis History (last 3 scans with mini thumbnails)
+- Quick links:
+  - Start New Analysis
+  - View Progress Tracking
+  - My Skin Profile (edit details)
+  - Recommendations
+
+---
+
+#### 5. Skin Analysis Flow (Core Feature)
+
+1. **Upload Photo Screen**
+   - Clear instructions: “Take a clear, well-lit, front-facing photo without makeup”
+   - Drag & drop or “Choose from gallery”
+   - Camera access option (for mobile)
+   - Image quality tips
+
+2. **Processing Screen**
+   - Loading animation with pink elements
+   - “Analyzing your skin… This may take 10–20 seconds”
+   - Shows: Image quality correction in progress + Skin tone normalization
+
+3. **Analysis Results Screen** (Main Feature Screen)
+   - Large central photo with all overlays:
+     - 3D Face Mesh
+     - Color-coded bounding boxes (pink shades)
+     - Confidence Heatmap (soft pink tones)
+     - Zone segmentation
+     - Hyperpigmentation outlines
+   - Left panel: Detailed results + Causal Analysis + Skin Health Score breakdown
+   - Right panel: Personalized Recommendations with toggle:
+     - Cosmetic Products (active ingredients + reasons)
+     - Home Remedies (natural solutions + reasons)
+   - Bottom: Smart Progress Tracking (if previous scans exist)
+
+4. **Interactive Features**
+   - Tap any zone → shows detailed % affected + issue type
+   - Hover/click bounding boxes → shows explainable labels
+
+---
+
+#### 6. Progress Tracking Page
+- Calendar / Timeline view of all past scans
+- Side-by-side comparison (Now vs Short Term vs Long Term)
+- Trend graphs (Lesion count, Pigmentation %, Severity)
+- Lesion Evolution Tracker
+
+---
+
+#### 7. My Profile Page
+- Edit all previously entered information
+- Update preferences (Cosmetic vs Home remedies)
+- Delete account option
+
+---
+
+### Suggested User Flow Summary (Simple Version)
+
+1. Landing → Sign Up / Login
+2. Complete 6-step Profile Creation (one-time)
+3. Dashboard → Upload Photo
+4. AI Analysis → View Results with all overlays & recommendations
+5. Save scan → Track Progress over time
+6. Regularly update profile if lifestyle/hormonal changes occur
+
+---
+
+Would you like me to expand any part of this workflow? For example:
+- Detailed wireframe descriptions for each screen
+- Exact questions with input types
+- Error handling & validation
+- Mobile-responsive flow
+
+Or should I create a **step-by-step visual prompt** (like the previous one) for the **Onboarding / Profile Creation screens** in the pink & white theme?
+
+Let me know how you'd like to proceed!

@@ -1,0 +1,59 @@
+Create a high-resolution, ultra-realistic screenshot of the Clinderma AI-Powered Facial Skin Health Screening Tool web application dashboard, displayed on a modern desktop browser with a clean, premium, soft pink and white medical-tech UI.
+Overall Style & Color Palette:
+Use a beautiful pink and white color scheme: Primary color Vibrant Hot Pink #E91E63, Soft Pink #FF69B4 as AI accent, Deep Pink #FF1493 for success indicators, Bright Coral Pink #FF4081 for inflammatory alerts, Light Pink #FF8DA1 for other lesions, Very Light Pink #FFF0F5 as background, Pure White cards, Deep Burgundy #2C0B1F for primary text, and Soft Mauve #6D4C5E for secondary text. Modern, minimalist, elegant, trustworthy, and calming feminine design with subtle gradients and soft shadows.
+Layout Structure (Full-Screen Dashboard):
+
+Top Header
+Left: Clinderma logo in white text inside a Vibrant Hot Pink rectangle
+Center: Title “AI-Powered Facial Skin Health Screening Tool” in Deep Burgundy
+Right: User avatar + name, “Upload New Photo” button in Vibrant Hot Pink with white text
+
+Main Central Area – Analyzed Face Photo (Large, 60% width)
+Show a clear, well-lit front-facing selfie of a young woman (visible diverse skin tone support).
+Overlaid directly on the photo with high visual clarity and soft pink accents:
+3D Face Mesh Grid (soft white wireframe landmarks)
+Color-coded Lesion Bounding Boxes: Deep Pink #FF1493 (comedonal), Bright Coral Pink #FF4081 (inflammatory), Light Pink #FF8DA1 (other) with lesion IDs and small explanatory labels like “Inflammatory acne (high redness) 92%” and “Comedonal acne (clogged pore)”
+Semi-transparent Confidence Heatmap Overlay (soft pink-to-deep pink intensity showing high-risk regions)
+Hyperpigmentation Outlines (Soft Pink #FF69B4 traced boundaries with % coverage labels)
+Facial Zone Segmentation (outlined zones: forehead, cheeks, nose, chin/jawline) with affected areas highlighted in soft pink
+Small floating tooltip on one zone: “Chin zone – 28% affected – Likely hormonal”
+
+Left Sidebar – Analysis Results
+Acne Severity: “Moderate” with labeled scale bar in pink tones
+Lesion Count & Bounding Boxes: “7 lesions detected”
+Hyperpigmentation Overlay: “12% coverage”
+Personalized Skin Health Score: 68/100 displayed in a white card with pink accents and breakdown:
+• Acne Severity: –15
+• Pigmentation: –10
+• Lesion Density: –7
+Causal Skin Analysis (Intelligence Layer):
+“Inflammatory acne detected in chin area → likely hormonal”
+“T-zone acne → likely due to oil accumulation + clogged pores”
+
+Right Sidebar – Personalized Recommendations
+Toggle switch with soft pink design: “Cosmetic Products”  |  “Home Remedies” (currently selected: Cosmetic Products)
+Under Cosmetic Products:
+Acne → Salicylic Acid, Benzoyl Peroxide
+Pigmentation → Niacinamide, Vitamin C
+With clear reasons: “Salicylic Acid clears pores”, “Niacinamide reduces dark spots”
+Under Home Remedies (visible as alternative):
+Acne → Turmeric (Haldi), Aloe Vera
+Pigmentation → Lemon, Honey
+With reasons: “Turmeric – anti-inflammatory”, “Aloe Vera – soothing & healing”
+
+Bottom Section – Smart Progress Tracking
+Three timeframes side-by-side: Now | Short Term | Long Term (with soft pink tabs)
+Before/After face photos with annotations
+Line graphs: Lesion count trend, Pigmentation % change, Severity progression (using pink color accents)
+Lesion Evolution Tracker note: “Same chin lesion reduced 42% in size & redness”
+
+Floating / Additional Smart Elements
+“User-Aware Personalization” badge showing: Age 24, Female, Combination skin, Primary concern: Acne & Pigmentation
+Optional lifestyle factors visible: “Sleep 7 hrs • Water 2.8L • Stress: Medium”
+Lighting & Image Quality Correction badge: “Auto-corrected for even lighting & skin tone normalization”
+Dynamic Zone Impact label: “Tap any zone for % affected + severity”
+
+
+Footer Text (small, in Soft Mauve):
+“Non-diagnostic • Progress tracking • Robust for all skin tones & lighting conditions • Privacy-first”
+Overall Mood: Elegant, soft, feminine, professional, futuristic, and highly trustworthy. Extremely detailed UI, sharp readable text, realistic shadows, modern sans-serif fonts, perfectly balanced composition, 16:9 aspect ratio, soft cinematic lighting, ultra-high resolution.

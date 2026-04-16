@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Clinderma — AI Skin Screening"
+version = "1.0.0"
+id = "artifacts/clinderma"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23482
+
+[services.development]
+run = "pnpm --filter @workspace/clinderma run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/clinderma", "run", "build" ]
+publicDir = "artifacts/clinderma/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23482"
+BASE_PATH = "/"

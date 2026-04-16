@@ -1,0 +1,65 @@
+Detailed Visual Prompt for Clinderma Onboarding Screens (Pink & White Theme)
+Create a high-resolution, ultra-realistic composite screenshot showing the complete 6-step Onboarding / Profile Creation Wizard of the Clinderma AI-Powered Facial Skin Health Screening Tool web application. Display it as a clean, modern desktop browser interface with a soft pink and white feminine medical-tech design.
+Overall Style & Color Palette:
+Use a beautiful soft pink and white color scheme: Primary color Vibrant Hot Pink #E91E63, Soft Pink #FF69B4 as accent, Deep Pink #FF1493 for highlights, Very Light Pink #FFF0F5 as background, Pure White cards and panels, Deep Burgundy #2C0B1F for primary text, and Soft Mauve #6D4C5E for secondary text. Elegant, minimalist, calming, professional, and trustworthy feminine UI with subtle gradients, soft shadows, and rounded corners.
+Layout Composition:
+Show all 6 steps arranged in a clean horizontal or vertical flow layout (like a modern multi-step wizard). At the top of the entire image, display a soft pink progress bar showing 6 steps with the current step highlighted in Hot Pink. Include the Clinderma logo (white text on Hot Pink rectangle) in the top-left corner and “Step X of 6” text.
+Step-by-Step Screens to Show (Clearly Labeled):
+Step 1: Basic Information (Mandatory)
+Clean white card with title “Tell us about yourself” in Hot Pink.
+Fields shown:
+
+Full Name input field
+Age (number selector)
+Gender selection: Three soft pink-outlined cards – Female | Male | Prefer not to say
+Skin Type: Four beautiful illustrated cards with icons – Oily, Dry, Combination, Sensitive (selected card has Hot Pink border)
+
+Step 2: Primary Skin Concerns
+Title: “What are your main skin concerns?”
+Multiple selectable pink chips/tags arranged neatly: Acne / Breakouts, Hyperpigmentation, Redness, Uneven skin tone, Dullness, Scarring, Others (with text input). Several chips already selected with Hot Pink fill.
+Step 3: Lifestyle Factors
+Title: “Help us understand your lifestyle” (marked as Optional)
+Fields:
+
+Average sleep per night (slider or dropdown)
+Daily water intake (selector)
+Diet type: Four cards – Mostly Healthy, Balanced, High in Junk Food
+Stress level: Horizontal slider with labels Low – Medium – High (pink track)
+Exercise frequency
+
+Step 4: Health & Hormonal Factors
+Title: “Health & Hormonal Information” (clearly labeled “Optional & Private”) with small lock icon.
+Fields:
+
+Hormonal conditions (Yes/No + text field)
+For females: Menstrual cycle options – Regular, Irregular, PCOS, Menopause
+For males: Shaving frequency
+Known skincare allergies (text area)
+Soft, respectful, and calming design.
+
+Step 5: Previous Skin History
+Title: “Tell us about your skin journey”
+
+Have you had skin issues before? (Yes/No toggle)
+If Yes: Duration + multi-select tags for treatments tried (Topical creams, Oral medication, Home remedies, Dermatologist visits)
+Family history of skin conditions (checkboxes)
+
+Step 6: Preferences & Consent
+Title: “Your Preferences”
+
+Preferred solution type: Two large toggle cards – “Cosmetic Products” and “Natural Home Remedies” (Both selected by default with Hot Pink accent)
+Two checkboxes with clear text:
+“I understand this is for educational purposes only and not a medical diagnosis”
+“I agree to my data being used securely to improve my skin analysis”
+
+Large prominent “Complete My Profile” button in Vibrant Hot Pink with white text
+
+Additional UI Elements Visible:
+
+Soft pink progress bar at the top showing all 6 steps (Step 3 highlighted in the composite image for variety)
+“Back” and “Continue” navigation buttons at the bottom of each step (Hot Pink “Continue” button)
+Subtle decorative elements: delicate pink floral or skin-care inspired icons in corners
+Modern sans-serif fonts, excellent typography, soft shadows, and clean spacing
+
+Overall Mood & Quality:
+Elegant, feminine, trustworthy, calming, and highly professional. Extremely detailed, sharp readable text, realistic UI elements, soft cinematic lighting, perfectly balanced composition, 16:9 aspect ratio or slightly taller for wizard feel, ultra-high resolution, 4K quality.
