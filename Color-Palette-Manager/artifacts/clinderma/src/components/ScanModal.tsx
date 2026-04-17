@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Camera, X, CheckCircle2, AlertCircle, Sparkles, Zap, Image as ImageIcon } from "lucide-react";
-import { processImageFrame, DynamicScanResult } from "../lib/faceAnalysis";
+import { processImageFrame, DynamicScanResult, initVideoLandmarker, drawAROverlay } from "../lib/faceAnalysis";
 import { loadProfile, UserProfile } from "../lib/profile";
 
 type Phase = "permission" | "camera" | "countdown" | "capturing" | "analysing" | "done" | "error";
@@ -33,14 +33,14 @@ export default function ScanModal({ onClose, onComplete }: ScanModalProps) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const streamRef = useRef<MediaStream | null>(null);
   const scanAnimRef = useRef<number | null>(null);
+  const arCanvasRef = useRef<HTMLCanvasElement>(null);
+  const arAnimRef = useRef<number | null>(null);
 
   const [phase, setPhase] = useState<Phase>("permission");
   const [countdown, setCountdown] = useState(3);
   const [analysisStep, setAnalysisStep] = useState(0);
   const [completedSteps, setCompletedSteps] = useState<number[]>([]);
   const [errorMsg, setErrorMsg] = useState("");
-  const [scanLineY, setScanLineY] = useState(0);
-  const [facePulse, setFacePulse] = useState(false);
   const [capturing, setCapturing] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [uploadedImage, setUploadedImage] = useState<string | null>(null);
@@ -56,6 +56,8 @@ export default function ScanModal({ onClose, onComplete }: ScanModalProps) {
       setAnalysisStep(0);
       setCompletedSteps([]);
     }
+    // Allow selecting same file again if user cancels/errors
+    e.target.value = "";
   };
 
   // ── Start camera ─────────────────────────────────────────────────────────
@@ -85,28 +87,66 @@ export default function ScanModal({ onClose, onComplete }: ScanModalProps) {
     if (scanAnimRef.current) cancelAnimationFrame(scanAnimRef.current);
   }, []);
 
-  // ── Scan line animation while camera is live ──────────────────────────────
+  // ── Live AR Tracking & Auto-start ─────────────────────────────────────────
   useEffect(() => {
-    if (phase !== "camera") return;
+    if (phase !== "camera" && phase !== "countdown") return;
 
-    let lineY = 0;
-    let pulse = false;
-    const lineInterval = setInterval(() => {
-      lineY = lineY >= 100 ? 0 : lineY + 0.6;
-      setScanLineY(lineY);
-    }, 16);
-    const pulseInterval = setInterval(() => {
-      pulse = !pulse;
-      setFacePulse(pulse);
-    }, 750);
+    let isRunning = true;
+    let videoLandmarker: any = null;
 
-    // Auto-start countdown after 2.5 s
-    const autoStart = setTimeout(() => setPhase("countdown"), 2500);
+    const startAR = async () => {
+       try {
+         videoLandmarker = await initVideoLandmarker();
+       } catch (e) {
+         console.warn("Failed to init AR video landmarker", e);
+         return;
+       }
+       if (!isRunning) return;
+
+       const step = async () => {
+         if (!isRunning) return;
+
+         if (videoRef.current && arCanvasRef.current && videoRef.current.readyState >= 2) {
+            const video = videoRef.current;
+            const canvas = arCanvasRef.current;
+            
+            if (canvas.width !== video.videoWidth || canvas.height !== video.videoHeight) {
+               canvas.width = video.videoWidth;
+               canvas.height = video.videoHeight;
+            }
+
+            try {
+              const results = videoLandmarker.detectForVideo(video, performance.now());
+              const ctx = canvas.getContext("2d");
+              if (ctx) {
+                 ctx.clearRect(0, 0, canvas.width, canvas.height);
+                 if (results && results.faceLandmarks && results.faceLandmarks.length > 0) {
+                    const face = results.faceLandmarks[0];
+                    drawAROverlay(ctx, face, canvas.width, canvas.height);
+                 }
+              }
+            } catch (e) {
+               // ignore drop
+            }
+         }
+
+         arAnimRef.current = requestAnimationFrame(step);
+       };
+
+       step();
+    };
+
+    startAR();
+
+    let autoStart: ReturnType<typeof setTimeout>;
+    if (phase === "camera") {
+      autoStart = setTimeout(() => setPhase("countdown"), 4000); // Give user more time to see AR
+    }
 
     return () => {
-      clearInterval(lineInterval);
-      clearInterval(pulseInterval);
-      clearTimeout(autoStart);
+      isRunning = false;
+      if (arAnimRef.current) cancelAnimationFrame(arAnimRef.current);
+      if (autoStart) clearTimeout(autoStart);
     };
   }, [phase]);
 
@@ -163,11 +203,17 @@ export default function ScanModal({ onClose, onComplete }: ScanModalProps) {
            sourceElement = new Image();
            sourceElement.src = uploadedImage;
            // wait for image to load
-           await new Promise((res) => { sourceElement!.onload = res; });
+           await new Promise((res, rej) => {
+             sourceElement!.onload = res;
+             sourceElement!.onerror = () => rej(new Error("Failed to load uploaded image."));
+           });
         } else if (canvasRef.current) {
            sourceElement = new Image();
            sourceElement.src = canvasRef.current.toDataURL("image/jpeg");
-           await new Promise((res) => { sourceElement!.onload = res; });
+           await new Promise((res, rej) => {
+             sourceElement!.onload = res;
+             sourceElement!.onerror = () => rej(new Error("Failed to load captured image."));
+           });
         }
         
         if (!sourceElement) throw new Error("No image source available");
@@ -358,30 +404,12 @@ export default function ScanModal({ onClose, onComplete }: ScanModalProps) {
                     style={{ transform: "scaleX(-1)" }}
                   />
 
-                  {/* Face oval guide */}
-                  <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
-                    <div
-                      className="rounded-[50%] border-2 transition-all duration-600"
-                      style={{
-                        width: "55%",
-                        height: "75%",
-                        borderColor: facePulse ? "#E91E63" : "#FF69B4",
-                        boxShadow: facePulse ? "0 0 18px rgba(233,30,99,0.45)" : "0 0 8px rgba(255,105,180,0.25)",
-                      }}
-                    />
-                  </div>
-
-                  {/* Scan line */}
-                  {phase === "camera" && (
-                    <div
-                      className="absolute left-0 right-0 h-px pointer-events-none"
-                      style={{
-                        top: `${scanLineY}%`,
-                        background: "linear-gradient(to right, transparent, #E91E63 30%, #FF69B4 50%, #E91E63 70%, transparent)",
-                        opacity: 0.75,
-                      }}
-                    />
-                  )}
+                  {/* AR overlay canvas */}
+                  <canvas 
+                    ref={arCanvasRef}
+                    className="absolute inset-0 w-full h-full object-cover pointer-events-none"
+                    style={{ transform: "scaleX(-1)" }}
+                  />
 
                   {/* Corner brackets */}
                   {(["tl", "tr", "bl", "br"] as const).map((pos) => (
@@ -583,14 +611,24 @@ export default function ScanModal({ onClose, onComplete }: ScanModalProps) {
                   <AlertCircle className="w-10 h-10 text-[#FF4081]" />
                 </div>
                 <div className="text-center">
-                  <h2 className="text-xl font-bold text-[#2C0B1F] mb-2">Camera Unavailable</h2>
+                  <h2 className="text-xl font-bold text-[#2C0B1F] mb-2">
+                    {errorMsg.includes("Camera amount") || errorMsg.includes("denied") ? "Camera Unavailable" : "Scan Error"}
+                  </h2>
                   <p className="text-sm text-[#6D4C5E] leading-relaxed">{errorMsg}</p>
                 </div>
                 <button
-                  onClick={startCamera}
+                  onClick={() => {
+                    if (errorMsg.includes("denied") || errorMsg.includes("Camera")) {
+                      startCamera();
+                    } else {
+                      setPhase("permission");
+                      setErrorMsg("");
+                      setUploadedImage(null);
+                    }
+                  }}
                   className="w-full flex items-center justify-center gap-2 bg-[#E91E63] hover:bg-[#D81B60] text-white font-semibold py-3.5 rounded-2xl transition-all text-sm"
                 >
-                  <Camera className="w-4 h-4" /> Try Again
+                  {(errorMsg.includes("denied") || errorMsg.includes("Camera")) && <Camera className="w-4 h-4" />} Try Again
                 </button>
                 <button onClick={handleClose} className="text-sm text-[#6D4C5E] hover:text-[#E91E63] transition-colors font-medium">
                   Cancel

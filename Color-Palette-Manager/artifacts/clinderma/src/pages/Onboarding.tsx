@@ -647,8 +647,10 @@ export default function Onboarding() {
     if (step < STEPS.length) {
       setStep(s => s + 1);
     } else {
-      import("../lib/profile").then(({ saveProfile }) => saveProfile(data));
-      navigate("/dashboard");
+      import("../lib/profile").then(({ saveProfile }) => {
+        saveProfile(data);
+        navigate("/dashboard");
+      });
     }
   }
 

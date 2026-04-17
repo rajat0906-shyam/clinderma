@@ -1,0 +1,667 @@
+isic_id,attribution,copyright_license,age_approx,anatom_site_general,anatom_site_special,diagnosis_1,diagnosis_2,diagnosis_3,image_type,sex
+ISIC_0074645,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_0076387,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0100824,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0101747,International Dermoscopy Society,CC-BY-NC,0,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0113272,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_0145541,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0147040,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0167084,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_0170347,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0172164,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_0185542,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0208881,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0218760,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0226121,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0229109,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0241920,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0253805,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_0254714,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0283168,International Dermoscopy Society,CC-BY-NC,5,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0290929,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_0297000,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0299070,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0307245,International Dermoscopy Society,CC-BY-NC,70,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_0325548,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0353938,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0363469,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_0364937,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0370347,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0391803,International Dermoscopy Society,CC-BY-NC,40,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0410095,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0433723,International Dermoscopy Society,CC-BY-NC,60,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0507042,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_0521273,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0536538,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_0558386,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0597500,International Dermoscopy Society,CC-BY-NC,5,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0604286,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0633857,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0634464,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0644793,International Dermoscopy Society,CC-BY-NC,25,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0681211,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0685166,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0713136,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_0723312,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0753459,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0760117,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0781432,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_0784383,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0787397,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0843685,International Dermoscopy Society,CC-BY-NC,60,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0851266,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0860777,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0896466,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0947721,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,
+ISIC_0947777,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0966167,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_0976683,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_0982798,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1010263,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1028236,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1036062,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1043270,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1049895,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_1051054,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1077488,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_1164144,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1194491,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_1199349,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1201537,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1202266,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1208044,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1225585,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1226939,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1241246,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1277895,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1292325,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1307696,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1311006,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1341978,International Dermoscopy Society,CC-BY-NC,35,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1346297,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1366346,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1366551,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_1371277,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1391928,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_1407649,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1438131,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1469732,International Dermoscopy Society,CC-BY-NC,30,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1509594,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1574985,International Dermoscopy Society,CC-BY-NC,10,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1603933,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_1614360,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1636227,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1641985,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1659004,International Dermoscopy Society,CC-BY-NC,0,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1663010,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_1666031,International Dermoscopy Society,CC-BY-NC,40,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1706019,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1712676,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_1714114,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1740900,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1746835,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_1771167,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1772950,International Dermoscopy Society,CC-BY-NC,5,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1779693,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1783194,International Dermoscopy Society,CC-BY-NC,40,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1812976,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_1844624,International Dermoscopy Society,CC-BY-NC,70,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1871644,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1885391,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1887586,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1892168,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_1918354,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1925536,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_1998024,International Dermoscopy Society,CC-BY-NC,30,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2005504,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_2037396,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2039943,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2041542,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2053831,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_2078832,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_2090795,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2122804,International Dermoscopy Society,CC-BY-NC,75,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_2156128,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2175477,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2175835,International Dermoscopy Society,CC-BY-NC,40,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_2183785,International Dermoscopy Society,CC-BY-NC,55,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2209028,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_2227515,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2249133,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_2252832,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2256952,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2261475,International Dermoscopy Society,CC-BY-NC,70,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_2287606,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2302644,International Dermoscopy Society,CC-BY-NC,15,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2310644,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_2331262,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2346420,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2363138,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_2373748,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2375469,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2395454,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2401803,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2402422,International Dermoscopy Society,CC-BY-NC,55,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2438124,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2452039,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_2456283,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2489702,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2497848,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2508230,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2509654,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2536986,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2546422,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_2551750,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2559045,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2561558,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_2623326,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2627499,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2634568,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2666617,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2672525,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2690895,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2694055,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2721375,International Dermoscopy Society,CC-BY-NC,10,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2743549,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2750971,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2768630,International Dermoscopy Society,CC-BY-NC,50,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2769352,International Dermoscopy Society,CC-BY-NC,10,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2779856,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2799373,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2800512,International Dermoscopy Society,CC-BY-NC,10,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2812263,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2820123,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2842369,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2844917,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2846841,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2847648,International Dermoscopy Society,CC-BY-NC,30,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2885257,International Dermoscopy Society,CC-BY-NC,55,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2900993,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2912150,International Dermoscopy Society,CC-BY-NC,35,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2915992,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2945861,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2947686,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2972240,International Dermoscopy Society,CC-BY-NC,5,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2978684,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_2980994,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_2987763,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_2996611,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3001993,International Dermoscopy Society,CC-BY-NC,5,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3010135,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3019776,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3052745,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_3056745,International Dermoscopy Society,CC-BY-NC,0,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3070783,International Dermoscopy Society,CC-BY-NC,0,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3076873,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3099993,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3106062,International Dermoscopy Society,CC-BY-NC,25,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3108889,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_3115446,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3129360,International Dermoscopy Society,CC-BY-NC,40,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_3142684,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_3188246,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3204382,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3205515,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3212716,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3256802,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3280432,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3291598,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3312686,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3374583,International Dermoscopy Society,CC-BY-NC,65,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3380530,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3382301,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3402448,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3411320,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3420667,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3456649,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3463192,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3469778,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3474813,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_3485897,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3537828,International Dermoscopy Society,CC-BY-NC,60,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,
+ISIC_3558881,International Dermoscopy Society,CC-BY-NC,0,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3580593,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_3585064,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_3607750,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,
+ISIC_3618925,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3733123,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3755404,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3763829,International Dermoscopy Society,CC-BY-NC,35,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3788153,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3788831,International Dermoscopy Society,CC-BY-NC,45,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3790749,International Dermoscopy Society,CC-BY-NC,40,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3793514,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3837538,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3843515,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3855359,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3878019,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3886833,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3887941,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3892600,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_3918832,International Dermoscopy Society,CC-BY-NC,40,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_3920914,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_3932202,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3948907,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_3972755,International Dermoscopy Society,CC-BY-NC,5,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_3980652,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4007838,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4015241,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4029982,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4032960,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4037488,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_4051851,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4076406,International Dermoscopy Society,CC-BY-NC,85,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_4095537,International Dermoscopy Society,CC-BY-NC,0,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4115900,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4118480,International Dermoscopy Society,CC-BY-NC,40,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4119617,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4183997,International Dermoscopy Society,CC-BY-NC,0,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4195869,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4213923,International Dermoscopy Society,CC-BY-NC,40,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4231556,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4240489,International Dermoscopy Society,CC-BY-NC,55,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_4249533,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4250611,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4273782,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4289355,International Dermoscopy Society,CC-BY-NC,75,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_4291438,International Dermoscopy Society,CC-BY-NC,0,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4305055,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_4364183,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4364480,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4367979,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4373338,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4395585,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4437427,International Dermoscopy Society,CC-BY-NC,80,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4438439,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4441584,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_4464596,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4465194,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4533631,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4542611,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4545879,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4547667,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4552290,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4576731,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4604866,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4615381,International Dermoscopy Society,CC-BY-NC,10,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4629784,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4653046,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_4660448,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4664291,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4668853,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_4676510,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4689425,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_4701687,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4721597,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4734118,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4736872,International Dermoscopy Society,CC-BY-NC,35,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4737016,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4748005,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4796885,International Dermoscopy Society,CC-BY-NC,40,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4797484,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4803647,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4820294,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4825336,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4827801,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4886516,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4900837,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4906622,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_4915881,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_4926298,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4927375,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_4934660,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4941583,International Dermoscopy Society,CC-BY-NC,60,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4975274,International Dermoscopy Society,CC-BY-NC,35,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_4995860,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5004132,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5047185,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5061014,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5090301,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_5098288,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5102489,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5130705,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5165551,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_5171889,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5178159,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_5240127,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_5243480,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_5249306,International Dermoscopy Society,CC-BY-NC,35,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5286821,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,
+ISIC_5289944,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5309059,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5312273,International Dermoscopy Society,CC-BY-NC,65,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5348378,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5353942,International Dermoscopy Society,CC-BY-NC,80,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_5372614,International Dermoscopy Society,CC-BY-NC,10,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5387868,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_5388486,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_5392676,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5407176,International Dermoscopy Society,CC-BY-NC,55,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5426283,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_5454645,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5463330,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5471474,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5489049,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5498443,International Dermoscopy Society,CC-BY-NC,65,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_5506628,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_5521480,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5562564,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5568259,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_5571861,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_5628486,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5628918,International Dermoscopy Society,CC-BY-NC,70,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_5635717,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5639230,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5643394,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5665056,International Dermoscopy Society,CC-BY-NC,75,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5681611,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_5685719,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,
+ISIC_5697616,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5710878,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5730927,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_5759269,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5760183,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5761243,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5763796,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5791605,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5800645,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5802311,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5811830,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_5826957,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_5839551,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5869650,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_5880327,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5890706,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5909453,International Dermoscopy Society,CC-BY-NC,15,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5918414,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_5921106,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_5924629,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5937299,International Dermoscopy Society,CC-BY-NC,10,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5978914,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_5991541,International Dermoscopy Society,CC-BY-NC,65,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6024569,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6047744,International Dermoscopy Society,CC-BY-NC,85,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_6050341,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6066041,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6071036,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6075122,International Dermoscopy Society,CC-BY-NC,70,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_6075949,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6085694,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6086797,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6096901,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6121009,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6177828,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_6202217,International Dermoscopy Society,CC-BY-NC,10,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6209942,International Dermoscopy Society,CC-BY-NC,30,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6267248,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6297515,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6299738,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_6305740,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6332998,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6340978,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6342772,International Dermoscopy Society,CC-BY-NC,10,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6354113,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6368433,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6371467,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6373034,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6373112,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6375555,International Dermoscopy Society,CC-BY-NC,5,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6387288,International Dermoscopy Society,CC-BY-NC,10,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6398747,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_6429741,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6445929,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6446019,International Dermoscopy Society,CC-BY-NC,0,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6450970,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6463630,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6535917,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6560499,International Dermoscopy Society,CC-BY-NC,25,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6560696,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6561428,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6579781,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6581335,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6583883,International Dermoscopy Society,CC-BY-NC,80,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_6591641,International Dermoscopy Society,CC-BY-NC,55,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_6619203,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6627621,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6629910,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6639434,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6671739,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6684951,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_6687891,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6690416,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6697583,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6708197,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6715135,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6740397,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6742898,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6754675,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6755608,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6755937,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_6779413,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_6779882,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6801410,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6804706,International Dermoscopy Society,CC-BY-NC,0,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6823531,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6832160,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6846234,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_6883133,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6902269,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_6926377,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6982173,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_6984897,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_6996519,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7003272,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7013000,International Dermoscopy Society,CC-BY-NC,10,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7015575,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7023895,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7025169,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7043148,International Dermoscopy Society,CC-BY-NC,70,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_7045271,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_7107329,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7108579,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7125509,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7131565,International Dermoscopy Society,CC-BY-NC,25,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7140313,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7207186,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7228182,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7229972,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7248555,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_7249099,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7256786,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7259812,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7263078,International Dermoscopy Society,CC-BY-NC,85,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_7270592,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7272864,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7274084,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7286331,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7305229,International Dermoscopy Society,CC-BY-NC,60,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7330603,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7341954,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7374794,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7375625,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7382054,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7386915,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7396113,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_7406454,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7407741,International Dermoscopy Society,CC-BY-NC,30,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7427737,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7458743,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7466524,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7493940,International Dermoscopy Society,CC-BY-NC,0,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7505287,International Dermoscopy Society,CC-BY-NC,60,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_7509790,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7510067,International Dermoscopy Society,CC-BY-NC,40,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7522225,International Dermoscopy Society,CC-BY-NC,35,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_7534867,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7557547,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7561860,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7566195,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7588395,International Dermoscopy Society,CC-BY-NC,0,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7588504,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7602661,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7603241,International Dermoscopy Society,CC-BY-NC,30,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7609618,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7609978,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7624651,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7634702,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7641273,International Dermoscopy Society,CC-BY-NC,30,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7645973,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7650956,International Dermoscopy Society,CC-BY-NC,65,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_7655193,International Dermoscopy Society,CC-BY-NC,5,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7667239,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7692880,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7693512,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7715484,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7733887,International Dermoscopy Society,CC-BY-NC,45,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7746950,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7769250,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7815737,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_7843981,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7854063,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_7865861,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_7867890,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7871997,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_7872859,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_7876544,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7884646,International Dermoscopy Society,CC-BY-NC,40,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7901028,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7901665,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7953404,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7956188,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_7966580,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_7997650,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8036786,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8076044,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8077613,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8082578,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_8087870,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8115766,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8150374,International Dermoscopy Society,CC-BY-NC,45,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8165218,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8174240,International Dermoscopy Society,CC-BY-NC,40,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_8178504,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8187856,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8207032,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8221988,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8253592,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8264762,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8286530,International Dermoscopy Society,CC-BY-NC,65,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8326637,International Dermoscopy Society,CC-BY-NC,30,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8328686,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_8349692,International Dermoscopy Society,CC-BY-NC,40,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8354600,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8361236,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8367898,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,male
+ISIC_8375436,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8403984,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8415959,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8427765,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8434437,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8460801,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_8474316,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8485854,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8502151,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8520290,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8528358,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_8535881,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8537772,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8556873,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8560936,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_8580369,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8581834,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8584069,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8592628,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8615163,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8681916,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8687712,International Dermoscopy Society,CC-BY-NC,55,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8696456,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_8701800,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8712667,International Dermoscopy Society,CC-BY-NC,70,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8725935,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8726820,International Dermoscopy Society,CC-BY-NC,65,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8766555,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8766734,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8802595,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_8805369,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8812932,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8816360,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8818929,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8822606,International Dermoscopy Society,CC-BY-NC,85,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8839155,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_8857559,International Dermoscopy Society,CC-BY-NC,75,,,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8872454,International Dermoscopy Society,CC-BY-NC,5,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8878900,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8879499,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8900588,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_8906805,International Dermoscopy Society,CC-BY-NC,65,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_8941711,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_8954318,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8956041,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_8966204,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8966519,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_8989475,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_8998726,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_9015201,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9015283,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_9050350,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9053918,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_9078298,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9105056,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_9112603,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9140368,International Dermoscopy Society,CC-BY-NC,55,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9156378,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9188436,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9198648,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_9226455,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9232628,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9261447,International Dermoscopy Society,CC-BY-NC,80,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_9265892,International Dermoscopy Society,CC-BY-NC,5,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9266692,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_9283919,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9292431,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9312838,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9315025,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9321143,International Dermoscopy Society,CC-BY-NC,75,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_9366716,International Dermoscopy Society,CC-BY-NC,50,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9368473,International Dermoscopy Society,CC-BY-NC,70,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_9402653,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9433735,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9448849,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9459255,International Dermoscopy Society,CC-BY-NC,55,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_9490601,International Dermoscopy Society,CC-BY-NC,55,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9499945,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9500439,International Dermoscopy Society,CC-BY-NC,35,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9513679,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9520738,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9525133,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9532163,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9536278,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_9548343,International Dermoscopy Society,CC-BY-NC,25,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9560980,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9572062,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9574919,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9582575,International Dermoscopy Society,CC-BY-NC,65,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_9589691,International Dermoscopy Society,CC-BY-NC,0,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9598973,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9620217,International Dermoscopy Society,CC-BY-NC,50,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9660199,International Dermoscopy Society,CC-BY-NC,70,upper extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_9671399,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9671775,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,male
+ISIC_9687039,International Dermoscopy Society,CC-BY-NC,10,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9725825,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9734036,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9795907,International Dermoscopy Society,CC-BY-NC,60,,,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9811250,International Dermoscopy Society,CC-BY-NC,40,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9837470,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma in situ,dermoscopic,female
+ISIC_9840000,International Dermoscopy Society,CC-BY-NC,25,upper extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9868674,International Dermoscopy Society,CC-BY-NC,15,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9869851,International Dermoscopy Society,CC-BY-NC,85,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_9895131,International Dermoscopy Society,CC-BY-NC,20,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9902151,International Dermoscopy Society,CC-BY-NC,60,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9911782,International Dermoscopy Society,CC-BY-NC,5,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,male
+ISIC_9924069,International Dermoscopy Society,CC-BY-NC,30,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9954797,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9954835,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9957003,International Dermoscopy Society,CC-BY-NC,35,lower extremity,acral palms or soles,Malignant,Malignant melanocytic proliferations (Melanoma),Melanoma Invasive,dermoscopic,female
+ISIC_9975551,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female
+ISIC_9978751,International Dermoscopy Society,CC-BY-NC,45,lower extremity,acral palms or soles,Benign,Benign melanocytic proliferations,Nevus,dermoscopic,female

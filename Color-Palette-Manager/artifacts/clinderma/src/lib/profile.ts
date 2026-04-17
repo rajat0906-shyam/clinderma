@@ -58,6 +58,7 @@ export function saveProfile(raw: {
     preferNatural: raw.preferNatural,
   };
   localStorage.setItem(KEY, JSON.stringify(profile));
+  window.dispatchEvent(new Event("profileUpdated"));
 }
 
 export function loadProfile(): UserProfile | null {

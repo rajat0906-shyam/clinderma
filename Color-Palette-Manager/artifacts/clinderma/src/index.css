@@ -176,3 +176,8 @@
   70% { box-shadow: 0 0 0 6px rgba(255, 141, 161, 0); }
   100% { box-shadow: 0 0 0 0px rgba(255, 141, 161, 0); }
 }
+
+@keyframes scan {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(800%); }
+}
